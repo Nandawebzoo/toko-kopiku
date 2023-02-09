@@ -215,7 +215,7 @@ body {
   line-height: 1.6;
 }
 
-.menu row {
+.menu .row {
   display: flex;
   flex-wrap: wrap;
   margin-top: 5rem;
