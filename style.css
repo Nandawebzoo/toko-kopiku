@@ -31,7 +31,7 @@ body {
   padding: 1.4rem 7%;
   background-color: rgba(1, 1, 1, 1, 0.8);
   border-bottom: 1px solid #b6895b;
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   right: 0;
@@ -229,7 +229,7 @@ body {
 
 .menu .row .menu-card img {
   border-radius: 50%;
-  width: 10%;
+  width: 60%;
 }
 
 .menu .row .menu-card .menu-card-title {
